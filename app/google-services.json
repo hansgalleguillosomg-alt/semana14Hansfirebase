@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "572070353526",
+    "project_id": "proyectomascotas-5e41f",
+    "storage_bucket": "proyectomascotas-5e41f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572070353526:android:e53c8d41ab327114e95d57",
+        "android_client_info": {
+          "package_name": "com.example.hansfirebased"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd0KZA5674d5l20h7HDhLE6xZbPC_-hJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
